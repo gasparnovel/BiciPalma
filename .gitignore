@@ -1,0 +1,9 @@
+#VSCODE
+.settings/
+.classpath
+.project
+.vscode/
+
+# Maven
+log/
+target/
